@@ -12,6 +12,7 @@
 
 - Java
   - [Gradle](./java/gradle.dockerfile)
+  - [Gradle(with whatap)](./java/gradle-whatap.dockerfile)
   - [Maven](./java/maven.dockerfile)
   - [Maven / Tomcat](./java/maven-tomcat.dockerfile)
 - NodeJS
